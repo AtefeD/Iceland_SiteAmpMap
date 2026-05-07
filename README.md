@@ -1,17 +1,17 @@
 # A Vs30 map and seismic site amplification map for Iceland
 
 The repository provides the following datasets and scripts:
-1. GeoSiteAmp_class Raster Datasets
+1. GeoSiteAmp_class Raster Datasets:
 Nationwide GeoTIFF raster layers of geological-based seismic site amplification classes for Iceland, derived from empirical strong-motion observations and detailed geological mapping. The amplification models are based on four Iceland-specific geological site classes:
 
 ** Hard Rock (HR), Rock (R), Lava Rock (L), Sedimentary Soil (S)
 
 The seismic site amplification factors associated with each geological-based site class and frequency band can be directly obtained from the frequency-dependent relative amplification factors presented in Table 1 of the publication.
 
-2. geoVs30 Raster Datasets
+2. geoVs30 Raster Datasets:
 Geological proxy-based Vs30 raster datasets for Iceland.
 
-3. Plotting Script
+3. Plotting Script:
 A Python script is included to visualize the GeoSiteAmp classes map, similar to Figure 5 of the publication.
 
 ## Reference:
