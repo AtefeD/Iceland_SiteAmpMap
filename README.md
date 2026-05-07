@@ -1,4 +1,4 @@
-# A nationwide frequency-dependent seismic site amplification maps for Iceland
+# A Vs30 map and seismic site amplification map for Iceland
 
 The repository provides the following datasets and scripts:
 1. GeoSiteAmp_class Raster Datasets
